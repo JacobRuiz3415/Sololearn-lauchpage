@@ -1,2 +1,3 @@
 link:
-a lauchoage made for sololearn
+A launch page made for sololearn HTML project
+-  I added some syle and changes
