@@ -1,4 +1,5 @@
-link:
-a lauchpage made for a sololearn course project in Html
+link: https://jacobruiz3415.github.io/Sololearn-lauchpage/
+A launch page made for sololearn HTML project
 - added CSS
 - planned to add javascript
+
