@@ -1,0 +1,30 @@
+body{
+            color: rgb(0, 0, 0);
+            margin-left: 10%;
+            margin-right: 10%;
+        }
+
+        h1{
+            color: red;
+            background-color: blue;
+            text-align: center;
+        }
+        p{
+            text-align: center;
+            background-color: lightgray;
+            color: rgb(0, 0, 0);
+        }
+
+        #hotdog{
+            width: 10%;
+            height: 100px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .fact {
+            list-style: disc;
+            background-color: orange;
+            color: black;
+        }
