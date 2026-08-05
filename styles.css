@@ -28,3 +28,8 @@ body{
             background-color: orange;
             color: black;
         }
+        
+main{
+    background-color: rgb(217, 217, 235);
+    padding: 5px;
+}
