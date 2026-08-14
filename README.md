@@ -4,3 +4,4 @@ A launch page made for sololearn HTML project
 - added CSS
 - planned to add javascript
 - planned to intergate ordering button with javascript
+- ok
