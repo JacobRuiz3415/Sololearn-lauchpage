@@ -1,8 +1,6 @@
-#Sololearn launchpage 
+# Sololearn launchpage 
 A launch page made for sololearn HTML project
-link: https://jacobruiz3415.github.io/Sololearn-lauchpage/
-/n 
-
+link: https://jacobruiz3415.github.io/Sololearn-lauchpage/ 
 - a webpage for sell Hotdogs
 - added CSS
 - planned to add javascript
