@@ -6,3 +6,4 @@ link: https://jacobruiz3415.github.io/Sololearn-lauchpage/
 - planned to add javascript
 - planned to intergate ordering button with javascript
 - added border styles
+- need to add form table
