@@ -2,13 +2,18 @@ body{
     color: rgb(0, 0, 0);
     margin-left: 10%;
     margin-right: 10%;
-    background-color: lightgray;
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
 }
 
 h1{
     color: red;
     background-color: blue;
     text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
 }
 
 p{
@@ -40,6 +45,6 @@ main{
 .entryForm{
     padding: 10 px;
     background-color: moccasin;
-    margin-left: 20px;
-    border-right: 20px;
+    padding: 20px;
+    
 }
